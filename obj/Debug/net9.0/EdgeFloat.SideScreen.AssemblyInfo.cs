@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EdgeFloat.SideScreen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40b20da4c34113e881becf03e27fb6ecee7bc966")]
 [assembly: System.Reflection.AssemblyProductAttribute("EdgeFloat.SideScreen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EdgeFloat.SideScreen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
